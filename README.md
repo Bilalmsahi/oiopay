@@ -1,2 +1,1 @@
-# oiopay
- just oio pay app
+Made its frontend and backend too using flutter and dart.
